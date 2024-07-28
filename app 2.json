@@ -12,28 +12,16 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.anonymous.MatheLernApp"
+      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.anonymous.MatheLernApp"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "c0e93db2-c11e-43e2-aa33-841af6ccb9ed"
-      }
-    },
-    "runtimeVersion": "1.0.0",
-    "updates": {
-      "url": "https://u.expo.dev/c0e93db2-c11e-43e2-aa33-841af6ccb9ed"
-    },
-    "owner": "wolfftec"
+    }
   }
 }
